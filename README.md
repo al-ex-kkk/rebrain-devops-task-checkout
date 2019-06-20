@@ -20,5 +20,6 @@ This file needs for working web-server Nginx. It is main config file for web ser
 ## Links
 
 [my rebrainme gitlab repo](https://gitlab.rebrainme.com/catylock/rebrain-devops-task-checkout)
+
 [Nginx official documantation](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
 
