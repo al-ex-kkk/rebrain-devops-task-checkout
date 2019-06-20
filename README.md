@@ -1,12 +1,12 @@
-#Project Title
+# Project Title
 
 Nginx configuration file
 
-##Disclamer
+## Disclamer
 
 This file needs for working web-server Nginx. It is main config file for web server.
 
-##Installing
+## Installing
 
 * cp /etc/nginx/nginx.conf /etc/nginx/nginx.conf.orig
 * cd /user/src/
@@ -17,7 +17,7 @@ This file needs for working web-server Nginx. It is main config file for web ser
 * cp nginx.conf /etc/nginx 
 * systemctl reload nginx
 
-##Links
+## Links
 
 https://gitlab.rebrainme.com/catylock/rebrain-devops-task-checkout
 https://www.nginx.com/resources/wiki/start/topics/examples/full/
